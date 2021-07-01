@@ -5,22 +5,22 @@ Hindi ko alam kung tama ba ang pamagat ng repo na ito :disappointed:. Ginawa lan
 # FAQ
 
  `  
-:question: Anong Programming Language ang gagamitin? Bakit?
- &nbsp;:heavy_minus_sign: Python, gusto ko kasing matuto nito. 
+:question: Anong Programming Language ang gagamitin? Bakit?  
+ :heavy_minus_sign: Python, gusto ko kasing matuto nito. 
  
 :question: Anong uri/aspeto ng Software Development ang gagawin?
- &nbsp;:heavy_minus_sign: Hindi ko naman gagag:shit:hin ang sarili ko. Be realistic naman, LAHAT po ng kaya ay gagawin.
+:heavy_minus_sign: Hindi ko naman gagag:shit:hin ang sarili ko. Be realistic naman, LAHAT po ng kaya ay gagawin.
 
 :question: Bakit 100 days lang? Nakikiuso kaba?
- &nbsp;:heavy_minus_sign:  Juan-Tamad ako kaya 100 days lang muna. Opo, nakikiuso lang po.
+:heavy_minus_sign:  Juan-Tamad ako kaya 100 days lang muna. Opo, nakikiuso lang po.
 
 :question: Meron bang schedule ng paggawa mo at kailan? 
- &nbsp;:heavy_minus_sign:  Monday-Saturday. 6hrs/day kung kaya.
+ :heavy_minus_sign:  Monday-Saturday. 6hrs/day kung kaya.
 
 :question: Anong motivation mo para gawin ang ganito?
- &nbsp;:heavy_minus_sign: Self hate at gusto kong mabago ang buhay.
+:heavy_minus_sign: Self hate at gusto kong mabago ang buhay.
 
 :question: Bakit nag effort kapang gumawa ng ganito, wala namang babasa?
- &nbsp;:heavy_minus_sign: Gusto ko lang para hindi mabigat sa damdamin at hindi ako guilty pag may maling information akong mabigay :smiling_imp:.
+:heavy_minus_sign: Gusto ko lang para hindi mabigat sa damdamin at hindi ako guilty pag may maling information akong mabigay :smiling_imp:.
 
 
