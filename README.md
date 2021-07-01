@@ -1,2 +1,6 @@
 # Software-Development-Challenge
-Ito ay kabilang sa [100 days Challenge](https://github.com/users/cadz15/projects/4).
+Ginawa lang ito para maging "productive" at matuto.  
+
+#DISCLAIMER!!
+
+Hindi po ako magaling sa Tagalog at lalo na sa Englis. Kung may nakita kayong mali(grammar, spelling, etc.), pasensya napo. Gagawin ko po ang lahat na maiwasan ang maraming mali. 
