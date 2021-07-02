@@ -1,5 +1,5 @@
 
-# 100 Days | Software Development 
+# 100 Days | Software/Web Development 
 Hindi ko alam kung tama ba ang pamagat ng repo na ito :disappointed:. Ginawa lang ito para maging "productive" at matuto.  Hindi po ako magaling sa Tagalog at lalo na sa Englis. Kung may nakita kayong mali(grammar, spelling, etc.) pasensya napo wag nyo lang akong isumbong kay idol Tulfo :sob::pray:. Gagawin ko po ang lahat na maiwasan lang ang maraming mali. 
 
 # FAQ
