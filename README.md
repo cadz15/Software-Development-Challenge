@@ -8,8 +8,8 @@ Hindi ko alam kung tama ba ang pamagat ng repo na ito :disappointed:. Ginawa lan
 :question: Anong Programming Language ang gagamitin? Bakit?  
  :heavy_minus_sign: Python, gusto ko kasing matuto nito. 
  
-:question: Anong uri/aspeto ng Software Development ang gagawin?  
-:heavy_minus_sign: Hindi ko naman gagag:shit:hin ang sarili ko. Be realistic naman, LAHAT po ng kaya ay gagawin.
+:question: Anong uri/aspeto ng Software/Web Development ang gagawin?  
+:heavy_minus_sign: Hindi ko naman gagag:shit:hin ang sarili ko. Be realistic naman, kung saan lang kaya.
 
 :question: Bakit 100 days lang? Nakikiuso kaba?  
 :heavy_minus_sign:  Juan-Tamad ako kaya 100 days lang muna. Opo, nakikiuso lang po.
