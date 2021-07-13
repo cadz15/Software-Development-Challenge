@@ -32,7 +32,7 @@ Ano ba ang Software Development?
 At ang core activities/stages ng Software Development ay;
 
  1. **Planning** - Lahat ng bagay ay nabubuo sa isang idea. Mas maiging itong idea na ito ay mabuo ng mabuti dahil ito ay babasihan ng mga susunod na stage.   
- 2. **Requirement Analysis** - Pinag-aaralan ang nabuong idea kung anong mga technical na kailangan. Minsan sinasama na ang requrement analysis sa planning. 
+ 2. **Requirement Analysis** - Pinag-aaralan ang nabuong idea kung anong mga technical na kailangan. Minsan sinasama na ang requirement analysis sa planning. 
 3. **Design** - Ginagawan ng prototype/conceptualization ng solution.
 4. **Development** - Pag develop ng application at ito yong pinaka matagal na stage.
 5. **Testing** - Para sa quality assurance at kung ang nagawang application ay naayon sa requirement analysis.
